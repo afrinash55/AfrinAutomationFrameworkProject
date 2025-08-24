@@ -3,6 +3,8 @@ package Practice.Goal;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.Properties;
 
 import org.apache.commons.io.FileUtils;
@@ -18,7 +20,10 @@ public class Utilities {
 	
 	private static final Logger logger = LogManager.getLogger(Utilities.class);
 
-	
+	/*logger.info("Navigating to booking page");
+	logger.debug("Selected travel date: " + selectedDate);
+	logger.warn("Train list is empty");
+	logger.error("Failed to select train", e);  // with exception*/
 	public WebDriver driver;
 	
 	public void scroll(WebDriver driver)
@@ -28,13 +33,27 @@ public class Utilities {
 		js.executeScript("window.scrollTo(0, document.body.scrollHeight)");
 		
 	}
-	
-	public void screenshot(WebDriver driver) throws IOException
+
+    // Take screenshot method (Reusable for all tests)
+	public static String screenshot(WebDriver driver,String testname) throws IOException
 	{
-		this.driver=driver;
+		
+		String timestamp=new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
+		String screenshotpath=System.getProperty("user.dir")+"/screenshots/"+testname+"_"+timestamp+".png";
+		
 		File src= ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-		FileUtils.copyFile(src, new File("c:\\users\\s\\afr1.png"));  
+		FileUtils.copyFile(src, new File(screenshotpath)); 
+		
+		return screenshotpath;
 	}
+	
+	/*SimpleDateFormat("yyyyMMdd_HHmmss") → Formats the current date & time into a string like 20250817_145601.
+
+	.format(new Date()) → Gets the current system date/time and applies that format.
+C:\MyProject\screenshots\LoginTest_20250817_145601.png
+
+	Why? → If two screenshots had the same name, they’d overwrite each other. Timestamp ensures unique file names.*/
+
 	
 	public static String fetchproperty(String key) throws IOException
 	{

@@ -4,14 +4,22 @@
   <listeners>
     <listener class-name="Practice.Goal.TestListener"/>
   </listeners>
-  <test thread-count="5" parallel="tests" name="Practice.Goal(failed)">
+  <test thread-count="5" name="Test-Chrome(failed)">
     <classes>
+      <class name="Practice.Goal.RegistrationTc">
+        <methods>
+          <include name="quit"/>
+          <include name="Registration"/>
+        </methods>
+      </class> <!-- Practice.Goal.RegistrationTc -->
       <class name="Practice.Goal.LoginTc">
         <methods>
+          <include name="errormess"/>
           <include name="Logining"/>
           <include name="quit"/>
+          <include name="testThatMayFail"/>
         </methods>
       </class> <!-- Practice.Goal.LoginTc -->
     </classes>
-  </test> <!-- Practice.Goal(failed) -->
+  </test> <!-- Test-Chrome(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -1,6 +1,7 @@
 package Practice.Goal;
 
 import java.io.IOException;
+import java.time.Duration;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -9,6 +10,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Loginpage extends Utilities{
 	
@@ -16,7 +19,7 @@ public class Loginpage extends Utilities{
 
 	public WebDriver driver;
 	
-	//WebDriverWait w = new WebDriverWait(driver, Duration.ofSeconds(5));
+	WebDriverWait w = new WebDriverWait(driver, Duration.ofSeconds(5));
 	
 
 	public Loginpage(WebDriver driver)
@@ -33,8 +36,8 @@ public class Loginpage extends Utilities{
 	@FindBy(id = "password")
 	public WebElement pass;
 	
-	//@FindBy(css="div[id='flash-message']")
-//	WebElement error;
+	@FindBy(css="div[id='flash-message']")
+      WebElement error;
 	
 	
 	public String login() throws InterruptedException, IOException
@@ -56,17 +59,16 @@ public class Loginpage extends Utilities{
 	}
 	
 	
-	/*public String geterror() throws InterruptedException
+	public String geterror() throws InterruptedException
 	{
 		scroll(driver);
 		user.sendKeys("Sita");
         pass.sendKeys(".,l");
         login.click();
-        //w.until(ExpectedConditions.visibilityOf(error));
-     //  WebElement errortext = w.until(ExpectedConditions.visibilityOf(error));
+        w.until(ExpectedConditions.visibilityOf(error));
         Thread.sleep(1000);
         String texterror=error.getText();
 		return texterror;
-	}*/
+	}
 	
 }

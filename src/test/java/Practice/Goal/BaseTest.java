@@ -5,12 +5,10 @@ import java.time.Duration;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterMethod;
-
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 
 public class BaseTest {
-	
 	
 	public WebDriver driver;
 	
@@ -18,11 +16,11 @@ public class BaseTest {
 	//launch app
 	//quick driver
 	
+
 	public WebDriver intialisedriver()
 	{
 		WebDriverManager.chromedriver().setup();
 		// Setup ChromeDriver automatically
-
 		driver= new ChromeDriver();// Create WebDriver instance
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		driver.manage().window().maximize();

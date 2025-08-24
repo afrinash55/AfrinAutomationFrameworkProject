@@ -69,3 +69,225 @@
 2025-08-16 12:28:16 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
 2025-08-16 12:28:16 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
 2025-08-16 12:28:36 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 15:06:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 15:06:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 15:06:44 [main] INFO  Practice.Goal.Utilities - registration page
+2025-08-17 15:06:47 [main] INFO  Practice.Goal.Utilities - username entered iscita
+2025-08-17 15:06:47 [main] INFO  Practice.Goal.Utilities - password entrered iscita@123
+2025-08-17 15:06:50 [main] INFO  Practice.Goal.Utilities - registr clicked
+2025-08-17 15:06:51 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 15:06:51 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 15:07:08 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 15:08:44 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 15:08:44 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 15:14:40 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 15:14:40 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 15:14:49 [main] INFO  Practice.Goal.Utilities - registration page
+2025-08-17 15:14:51 [main] INFO  Practice.Goal.Utilities - username entered isa
+2025-08-17 15:14:52 [main] INFO  Practice.Goal.Utilities - password entrered iscita@123
+2025-08-17 15:14:54 [main] INFO  Practice.Goal.Utilities - registr clicked
+2025-08-17 15:14:55 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 15:14:55 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 15:15:05 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 15:28:45 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 15:28:45 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 15:28:55 [main] INFO  Practice.Goal.Utilities - registration page
+2025-08-17 15:28:57 [main] INFO  Practice.Goal.Utilities - username entered isa
+2025-08-17 15:28:57 [main] INFO  Practice.Goal.Utilities - password entrered iscita@123
+2025-08-17 15:29:01 [main] INFO  Practice.Goal.Utilities - registr clicked
+2025-08-17 15:29:01 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 15:29:01 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 15:29:14 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 15:31:12 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 15:31:12 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 15:31:22 [main] INFO  Practice.Goal.Utilities - registration page
+2025-08-17 15:31:24 [main] INFO  Practice.Goal.Utilities - username entered isa
+2025-08-17 15:31:24 [main] INFO  Practice.Goal.Utilities - password entrered iscita@123
+2025-08-17 15:31:27 [main] INFO  Practice.Goal.Utilities - registr clicked
+2025-08-17 15:31:27 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 15:31:27 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 15:31:40 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 16:09:43 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:09:43 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 16:10:10 [TestNG-tests-1] INFO  Practice.Goal.Utilities - registration page
+2025-08-17 16:10:12 [TestNG-tests-1] INFO  Practice.Goal.Utilities - username entered isa
+2025-08-17 16:10:13 [TestNG-tests-1] INFO  Practice.Goal.Utilities - password entrered iscita@123
+2025-08-17 16:10:16 [TestNG-tests-1] INFO  Practice.Goal.Utilities - registr clicked
+2025-08-17 16:10:16 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:10:16 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 16:10:30 [TestNG-tests-1] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 16:27:31 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:27:31 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 16:27:38 [TestNG-tests-1] INFO  Practice.Goal.Utilities - registration page
+2025-08-17 16:27:40 [TestNG-tests-1] INFO  Practice.Goal.Utilities - username entered isJita
+2025-08-17 16:27:40 [TestNG-tests-1] INFO  Practice.Goal.Utilities - password entrered is;
+2025-08-17 16:27:43 [TestNG-tests-1] INFO  Practice.Goal.Utilities - registr clicked
+2025-08-17 16:27:54 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:27:54 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 16:28:03 [TestNG-tests-1] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 16:28:13 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:28:13 [TestNG-tests-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 16:38:18 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:38:18 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 16:38:32 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 16:38:38 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:38:38 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 16:40:50 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:40:50 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 16:41:03 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 16:41:09 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:41:09 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 16:44:32 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:44:32 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 16:44:44 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 16:44:50 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:44:50 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 16:55:48 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:55:48 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 16:55:54 [main] INFO  Practice.Goal.Utilities - registration page
+2025-08-17 16:55:56 [main] INFO  Practice.Goal.Utilities - username entered iscita
+2025-08-17 16:55:56 [main] INFO  Practice.Goal.Utilities - password entrered iscita@123;
+2025-08-17 16:55:56 [main] INFO  Practice.Goal.Utilities - registr clicked
+2025-08-17 16:56:12 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:56:12 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 16:56:25 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 16:56:31 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 16:56:31 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:09:08 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:09:09 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:09:14 [main] INFO  Practice.Goal.Utilities - registration page
+2025-08-17 17:09:16 [main] INFO  Practice.Goal.Utilities - username entered iscita
+2025-08-17 17:09:17 [main] INFO  Practice.Goal.Utilities - password entrered iscita@123;
+2025-08-17 17:09:17 [main] INFO  Practice.Goal.Utilities - registr clicked
+2025-08-17 17:09:28 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:09:28 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:09:40 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:09:47 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:09:47 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:10:00 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:10:12 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:10:12 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:10:28 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:10:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:10:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:10:46 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:10:52 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:10:52 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:11:06 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:11:12 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:11:12 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:11:24 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:11:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:11:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:11:29 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:11:29 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:11:32 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:11:32 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:11:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:11:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:11:46 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:11:54 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:11:54 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:12:08 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:12:14 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:12:14 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:12:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:12:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:12:22 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:12:22 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:12:59 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:13:06 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:13:06 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:13:16 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:13:16 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:13:31 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:13:37 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:13:37 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:13:51 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:13:57 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:13:57 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:13:58 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:13:58 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:14:12 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:14:18 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:14:18 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:14:29 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:14:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:14:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:14:48 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:14:54 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:14:54 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:15:05 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:15:11 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:15:11 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:15:22 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:15:28 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:15:28 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:15:47 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:15:53 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:15:53 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:16:08 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:16:14 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:16:14 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:16:23 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:16:30 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:16:30 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:16:38 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:16:39 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:16:39 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:16:49 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:16:50 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:16:50 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:16:54 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:16:54 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:17:04 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:17:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:17:10 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:17:21 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:17:27 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:17:27 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:17:38 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:17:44 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:17:44 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:17:53 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:17:53 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:18:06 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:18:12 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:18:12 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:19:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:19:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:19:40 [main] INFO  Practice.Goal.Utilities - registration page
+2025-08-17 17:19:42 [main] INFO  Practice.Goal.Utilities - username entered iscita
+2025-08-17 17:19:42 [main] INFO  Practice.Goal.Utilities - password entrered iscita@123;
+2025-08-17 17:19:45 [main] INFO  Practice.Goal.Utilities - registr clicked
+2025-08-17 17:19:56 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:19:56 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 17:20:04 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 17:20:14 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.183 (resolved driver for Chrome 138)
+2025-08-17 17:20:14 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\138.0.7204.183\chromedriver.exe
+2025-08-17 18:32:14 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.68 (resolved driver for Chrome 139)
+2025-08-17 18:32:14 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.68/win64/chromedriver-win64.zip
+2025-08-17 18:32:15 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
+2025-08-17 18:32:15 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\139.0.7258.68\chromedriver.exe
+2025-08-17 18:32:24 [main] INFO  Practice.Goal.Utilities - registration page
+2025-08-17 18:32:26 [main] INFO  Practice.Goal.Utilities - username entered iscita
+2025-08-17 18:32:27 [main] INFO  Practice.Goal.Utilities - password entrered iscita@123;
+2025-08-17 18:32:27 [main] INFO  Practice.Goal.Utilities - registr clicked
+2025-08-17 18:32:41 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.68 (resolved driver for Chrome 139)
+2025-08-17 18:32:41 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\139.0.7258.68\chromedriver.exe
+2025-08-17 18:32:53 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-17 18:33:00 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.68 (resolved driver for Chrome 139)
+2025-08-17 18:33:00 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\139.0.7258.68\chromedriver.exe
+2025-08-24 22:01:08 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)
+2025-08-24 22:01:08 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.138/win64/chromedriver-win64.zip
+2025-08-24 22:01:09 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
+2025-08-24 22:01:09 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe
+2025-08-24 22:01:16 [main] INFO  Practice.Goal.Utilities - registration page
+2025-08-24 22:01:18 [main] INFO  Practice.Goal.Utilities - username entered iscita
+2025-08-24 22:01:19 [main] INFO  Practice.Goal.Utilities - password entrered iscita@123;
+2025-08-24 22:01:19 [main] INFO  Practice.Goal.Utilities - registr clicked
+2025-08-24 22:01:32 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)
+2025-08-24 22:01:32 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe
+2025-08-24 22:01:42 [main] INFO  Practice.Goal.Utilities - login successful
+2025-08-24 22:01:50 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 139.0.7258.138 (resolved driver for Chrome 139)
+2025-08-24 22:01:50 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\s\.cache\selenium\chromedriver\win64\139.0.7258.138\chromedriver.exe

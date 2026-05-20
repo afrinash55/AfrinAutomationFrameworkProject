@@ -1,2 +1,3 @@
 dcd ck.dc
 git is awsme and indblowing and very helful to collaborate
+git is more useful and more good
